@@ -8,7 +8,7 @@ const Header = () => {
     <>
         <nav className='flex justify-between p-4 items-center'>
             <Link>
-                <img src='/logo2.png' className='h-20'/>
+                <img src='/job-portal/logo2.png' className='h-20'/>
             </Link>
             {/* <Button variant="outline">Login</Button> */}
             <SignedOut>
